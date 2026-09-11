@@ -46,3 +46,5 @@ record ServiceOffering(
     string Description,
     decimal StartingPrice,
     int EstimatedMinutes);
+
+public partial class Program;
